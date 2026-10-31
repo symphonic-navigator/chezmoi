@@ -1,0 +1,3 @@
+# Worktrees leben im Repo, gehören aber nie ins Repo
+.claude/worktrees/
+.worktrees/
