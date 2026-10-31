@@ -21,7 +21,17 @@ wmclass=systemsettings
 wmclassmatch=1
 
 [General]
-Order=5c05509f-50be-409f-9215-d5daa0e46a17,3e65ce97-66a2-42ae-a61a-11abdc4862eb,fd003a04-793d-43d5-8053-916464a43649,c96c093b-6dbe-47a5-b8db-f76558b2fd1c
+Order=5c05509f-50be-409f-9215-d5daa0e46a17,3e65ce97-66a2-42ae-a61a-11abdc4862eb,fd003a04-793d-43d5-8053-916464a43649,c96c093b-6dbe-47a5-b8db-f76558b2fd1c,b70e9e35-e7cc-4f77-b253-a30f0cd0f243
+
+[b70e9e35-e7cc-4f77-b253-a30f0cd0f243]
+Description=Discord
+desktops=4b44e857-a6e9-40f5-b102-466187aebe0b
+desktopsrule=3
+fullscreen=true
+fullscreenrule=3
+wmclass=com.discordapp.Discord
+wmclasscomplete=true
+wmclassmatch=2
 
 [c96c093b-6dbe-47a5-b8db-f76558b2fd1c]
 Description=Einstellungen für claude Claude
