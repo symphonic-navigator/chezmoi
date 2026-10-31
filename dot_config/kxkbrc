@@ -1,0 +1,7 @@
+[Layout]
+DisplayNames=de_
+LayoutList=de_at_enhanced
+Options=caps:escape,fkeys:basic_13-24
+ResetOldOptions=true
+Use=true
+VariantList=basic
