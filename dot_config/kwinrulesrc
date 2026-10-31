@@ -1,0 +1,41 @@
+[3e65ce97-66a2-42ae-a61a-11abdc4862eb]
+Description=Einstellungen für spotify
+above=true
+aboverule=2
+decorationpolicy=none
+decorationpolicyrule=2
+desktops=919440d6-55ec-4dd8-a398-0b9b546c1253
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+wmclass=spotify
+wmclasscomplete=true
+wmclassmatch=2
+
+[5c05509f-50be-409f-9215-d5daa0e46a17]
+Description=Fenster-Einstellungen für systemsettings
+decorationpolicy=none
+decorationpolicyrule=3
+types=1
+wmclass=systemsettings
+wmclassmatch=1
+
+[General]
+Order=5c05509f-50be-409f-9215-d5daa0e46a17,3e65ce97-66a2-42ae-a61a-11abdc4862eb,fd003a04-793d-43d5-8053-916464a43649,c96c093b-6dbe-47a5-b8db-f76558b2fd1c
+
+[c96c093b-6dbe-47a5-b8db-f76558b2fd1c]
+Description=Einstellungen für claude Claude
+desktops=87b1ac68-e007-408e-a26d-f1369796cead
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+wmclass=claude-desktop com.anthropic.Claude
+wmclasscomplete=true
+wmclassmatch=1
+
+[fd003a04-793d-43d5-8053-916464a43649]
+Description=Einstellungen für kitty
+decorationpolicy=none
+decorationpolicyrule=3
+wmclass=kitty
+wmclassmatch=1
