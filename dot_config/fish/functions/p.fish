@@ -1,3 +1,3 @@
-function p --wraps='peek' --description 'alias p peek'
-    peek $argv
+function p --wraps='glow -p' --description 'alias p glow -p'
+    glow -p $argv
 end
